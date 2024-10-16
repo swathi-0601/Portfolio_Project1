@@ -1,2 +1,2 @@
-# portfolio-_project1
+# portfolio-project1
 Data Analyst Portfolio
